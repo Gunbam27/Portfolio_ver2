@@ -1,6 +1,6 @@
 <template>
   <div className="wrap_home">
-    <img src="./../assets/img/profile.jpg" alt="신예진"/>
+    <img src="./../../public/img/profile.jpg" alt="신예진"/>
     <h1>안녕하세요👋 모션을 좋아하고 잘하고싶은 웹퍼블리셔 신예진입니다✨</h1>
     <p>구현하고자 하는 기능이 있다면, 몇일이 걸려서라도 만들어냅니다.</p>
     <p>그 과정에서 모든 코드를 다 이해할 순 없어도, 내 것으로 만드려고 노력하고있습니다.</p>
